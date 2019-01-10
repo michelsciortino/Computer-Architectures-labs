@@ -1,0 +1,211 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Michel\Desktop\CA\Computer-Architectures-labs\lab8\lab_08.uvproj
+Project File Date:  12/13/2018
+
+<h2>Output:</h2>
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling lab_08.s...
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s(155): error: A1477E: This register combination results in UNPREDICTABLE behaviour
+lab_08.s:   155 00000020     PUSH {R0-R12, LR,PC}
+lab_08.s: 1 Error, 0 Warnings
+lab_08.s - 1 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling lab_08.s...
+lab_08.s(155): error: A1477E: This register combination results in UNPREDICTABLE behaviour
+lab_08.s:   155 00000020     PUSH {R0-R12, LR,PC}
+lab_08.s: 1 Error, 0 Warnings
+Target not created
+assembling lab_08.s...
+lab_08.s(155): error: A1477E: This register combination results in UNPREDICTABLE behaviour
+lab_08.s:   155 00000020     PUSH {R0-R12, LR,PC}
+lab_08.s: 1 Error, 0 Warnings
+lab_08.s - 1 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s(155): error: A1477E: This register combination results in UNPREDICTABLE behaviour
+lab_08.s:   155 00000020     PUSH {R0-R12,LR,PC}
+lab_08.s: 1 Error, 0 Warnings
+lab_08.s - 1 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling lab_08.s...
+lab_08.s(155): error: A1477E: This register combination results in UNPREDICTABLE behaviour
+lab_08.s:   155 00000020     PUSH {R0-R12,LR,PC}
+lab_08.s: 1 Error, 0 Warnings
+Target not created
+assembling lab_08.s...
+lab_08.s(155): error: A1477E: This register combination results in UNPREDICTABLE behaviour
+lab_08.s:   155 00000020     PUSH {PC}
+lab_08.s(156): error: A1477E: This register combination results in UNPREDICTABLE behaviour
+lab_08.s:   156 00000024     PUSH {R0-R12,LR,PC}
+lab_08.s: 2 Errors, 0 Warnings
+lab_08.s - 2 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s(155): error: A1150E: Bad symbol, not defined or external
+lab_08.s:   155 00000020     PUSH {15}
+lab_08.s:                          ^
+lab_08.s: 1 Error, 0 Warnings
+lab_08.s - 1 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling lab_08.s...
+lab_08.s(155): error: A1150E: Bad symbol, not defined or external
+lab_08.s:   155 00000020     PUSH {15}
+lab_08.s:                          ^
+lab_08.s: 1 Error, 0 Warnings
+Target not created
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s(155): error: A1477E: This register combination results in UNPREDICTABLE behaviour
+lab_08.s:   155 00000020     PUSH {R0-R12,LR,R15}
+lab_08.s: 1 Error, 0 Warnings
+lab_08.s - 1 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling lab_08.s...
+lab_08.s(155): error: A1477E: This register combination results in UNPREDICTABLE behaviour
+lab_08.s:   155 00000020     PUSH {R0-R12,LR,R15}
+lab_08.s: 1 Error, 0 Warnings
+Target not created
+assembling lab_08.s...
+lab_08.s(155): error: A1215E: Bad register list symbol
+lab_08.s:   155 00000020     PUSH R15
+lab_08.s:                         ^
+lab_08.s: 1 Error, 0 Warnings
+lab_08.s - 1 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s(155): error: A1477E: This register combination results in UNPREDICTABLE behaviour
+lab_08.s:   155 00000020     PUSH {R15}
+lab_08.s: 1 Error, 0 Warnings
+lab_08.s - 1 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling lab_08.s...
+lab_08.s(155): error: A1477E: This register combination results in UNPREDICTABLE behaviour
+lab_08.s:   155 00000020     PUSH {R15}
+lab_08.s: 1 Error, 0 Warnings
+Target not created
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).
+assembling lab_08.s...
+lab_08.s - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"lab_08.axf" - 0 Error(s), 0 Warning(s).

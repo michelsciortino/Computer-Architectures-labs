@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\lab_10 -I.\button_EXINT -I.\led -I.\timer
+-I "C:\Program Files (x86)\Keil\ARM\RV31\INC"
+-I "C:\Program Files (x86)\Keil\ARM\CMSIS\Include"
+-I "C:\Program Files (x86)\Keil\ARM\Inc\NXP\LPC17xx"
+
+-o .\irq_joystick.o --omf_browse .\irq_joystick.crf --depend .\irq_joystick.d "IRQ_joystick.c"

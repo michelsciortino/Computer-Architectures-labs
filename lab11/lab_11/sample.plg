@@ -1,0 +1,83 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Michel\Desktop\CA\Computer-Architectures-labs\lab10\lab_10\sample.uvproj
+Project File Date:  12/20/2018
+
+<h2>Output:</h2>
+compiling semaphore_system.c...
+semaphore_system.c(10): error:  #20: identifier "input_t" is undefined
+semaphore_system.c(13): error:  #20: identifier "state_ped_green" is undefined
+semaphore_system.c(14): error:  #20: identifier "timeout" is undefined
+semaphore_system.c(15): warning:  #223-D: function "change_state" declared implicitly
+semaphore_system.c(15): error:  #20: identifier "state_ped_lighing" is undefined
+semaphore_system.c(16): error:  #20: identifier "pedestian_request" is undefined
+semaphore_system.c(24): error:  #20: identifier "state_car_green" is undefined
+semaphore_system.c(31): error:  #20: identifier "state_car_yellow" is undefined
+semaphore_system.c(45): error:  #20: identifier "sem_state_t" is undefined
+semaphore_system.c(45): error:  #159: declaration is incompatible with previous "change_state" (declared at line 15)
+semaphore_system.c(47): error:  #20: identifier "state_ped_green" is undefined
+semaphore_system.c(51): error:  #20: identifier "state_ped_lighing" is undefined
+semaphore_system.c(55): error:  #20: identifier "state_car_green" is undefined
+semaphore_system.c(59): error:  #20: identifier "state_car_yellow" is undefined
+semaphore_system.c - 13 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling sample.c...
+sample.c(41): warning:  #223-D: function "Semaphore_System_init" declared implicitly
+sample.c(46): error:  #1113: Inline assembler not permitted when generating Thumb code
+compiling core_cm3.c...
+compiling system_LPC17xx.c...
+compiling funct_led.c...
+compiling lib_led.c...
+compiling IRQ_button.c...
+compiling lib_button.c...
+compiling IRQ_timer.c...
+compiling lib_timer.c...
+compiling semaphore_system.c...
+semaphore_system.c(10): error:  #20: identifier "input_t" is undefined
+semaphore_system.c(13): error:  #20: identifier "state_ped_green" is undefined
+semaphore_system.c(14): error:  #20: identifier "timeout" is undefined
+semaphore_system.c(15): warning:  #223-D: function "change_state" declared implicitly
+semaphore_system.c(15): error:  #20: identifier "state_ped_lighing" is undefined
+semaphore_system.c(16): error:  #20: identifier "pedestian_request" is undefined
+semaphore_system.c(24): error:  #20: identifier "state_car_green" is undefined
+semaphore_system.c(31): error:  #20: identifier "state_car_yellow" is undefined
+semaphore_system.c(45): error:  #20: identifier "sem_state_t" is undefined
+semaphore_system.c(45): error:  #159: declaration is incompatible with previous "change_state" (declared at line 15)
+semaphore_system.c(47): error:  #20: identifier "state_ped_green" is undefined
+semaphore_system.c(51): error:  #20: identifier "state_ped_lighing" is undefined
+semaphore_system.c(55): error:  #20: identifier "state_car_green" is undefined
+semaphore_system.c(59): error:  #20: identifier "state_car_yellow" is undefined
+Target not created
+Build target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling sample.c...
+sample.c(41): warning:  #223-D: function "Semaphore_System_init" declared implicitly
+sample.c(46): error:  #1113: Inline assembler not permitted when generating Thumb code
+compiling core_cm3.c...
+compiling system_LPC17xx.c...
+compiling funct_led.c...
+compiling lib_led.c...
+compiling IRQ_button.c...
+compiling lib_button.c...
+compiling IRQ_timer.c...
+compiling lib_timer.c...
+compiling semaphore_system.c...
+semaphore_system.c(10): error:  #20: identifier "input_t" is undefined
+semaphore_system.c(13): error:  #20: identifier "state_ped_green" is undefined
+semaphore_system.c(14): error:  #20: identifier "timeout" is undefined
+semaphore_system.c(15): warning:  #223-D: function "change_state" declared implicitly
+semaphore_system.c(15): error:  #20: identifier "state_ped_lighing" is undefined
+semaphore_system.c(16): error:  #20: identifier "pedestian_request" is undefined
+semaphore_system.c(24): error:  #20: identifier "state_car_green" is undefined
+semaphore_system.c(31): error:  #20: identifier "state_car_yellow" is undefined
+semaphore_system.c(45): error:  #20: identifier "sem_state_t" is undefined
+semaphore_system.c(45): error:  #159: declaration is incompatible with previous "change_state" (declared at line 15)
+semaphore_system.c(47): error:  #20: identifier "state_ped_green" is undefined
+semaphore_system.c(51): error:  #20: identifier "state_ped_lighing" is undefined
+semaphore_system.c(55): error:  #20: identifier "state_car_green" is undefined
+semaphore_system.c(59): error:  #20: identifier "state_car_yellow" is undefined
+Target not created

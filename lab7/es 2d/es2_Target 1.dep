@@ -1,0 +1,2 @@
+Dependencies for Project 'es2', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x5C0B1714)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Program Files (x86)\Keil\ARM\INC" -I "C:\Program Files (x86)\Keil\ARM\INC\NXP\LPC17xx" --list "startup_LPC17xx.lst" --xref -o "startup_LPC17xx.o" --depend "startup_LPC17xx.d")

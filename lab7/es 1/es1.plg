@@ -1,0 +1,22 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Michel\Desktop\CA\Computer-Architectures-labs\lab7\es 1\es1.uvproj
+Project File Date:  12/06/2018
+
+<h2>Output:</h2>
+assembling es1.s...
+es1.s(113): warning: A1581W: Added 2 bytes of padding at address 0x2
+es1.s:   113 00000004 Price_list DCD 0x004, 120, 0x006, 315, 0x007, 1210, 0x00A, 245 
+es1.s: 0 Errors, 1 Warning
+es1.s - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling es1.s...
+es1.s(113): warning: A1581W: Added 2 bytes of padding at address 0x2
+es1.s:   113 00000004 Price_list DCD 0x004, 120, 0x006, 315, 0x007, 1210, 0x00A, 245 
+es1.s: 0 Errors, 1 Warning
+linking...
+Program Size: Code=564 RO-data=204 RW-data=0 ZI-data=512  
+"es1.axf" - 0 Error(s), 1 Warning(s).

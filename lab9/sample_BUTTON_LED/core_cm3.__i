@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I "C:\Program Files (x86)\Keil\ARM\INC" -I "C:\Program Files (x86)\Keil\ARM\INC\NXP\LPC17xx" -o "core_cm3.o" --omf_browse "core_cm3.crf" --depend "core_cm3.d" "core_cm3.c"
